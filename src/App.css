@@ -1,0 +1,19 @@
+.all-data {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+.data {
+  padding: 10px 20px;
+  margin: 10px 0px;
+  background-color: bisque;
+  border-radius: 5px;
+}
+span{
+  color: salmon;
+  font-family: sans-serif;
+}
+h3{
+  color: red;
+}
