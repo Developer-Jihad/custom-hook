@@ -1,9 +1,24 @@
-## Live Link:- https://custom-hook-lemon.vercel.app/
-## This Poject is Created by React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Custom Hook Practice
 
-Currently, two official plugins are available:
+<img src=https://i.ibb.co/qFxpSTw/Screenshot-2024-01-21-234207.png />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Live Link:- https://custom-hook-lemon.vercel.app/
+
+## Built With
+
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+
+## Getting Started
+
+**Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Developer-Jihad/Booking-App
+   cd booking
+   npm install
+   npm run dev
+   ```
